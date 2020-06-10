@@ -1,0 +1,6 @@
+Teacher		Class Room 
+asdf		CR: 5
+qwdr		CR: 2
+mdjfkd		CR: 6
+jxckndjnc		CR: 6
+kxkcn		CR: 6
